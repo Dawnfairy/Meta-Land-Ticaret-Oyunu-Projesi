@@ -1,4 +1,5 @@
 # Meta-Land-Ticaret-Oyunu-Projesi
+Hazirlayanlar: Fatma Nur Kurt, Tayyib Okur.
 Projenin Amaci: Bu proje kapsaminda sanal ortamda arsa ve market ile ilgili (alim-satim-kiralama-isletme vb.) ticari aksiyonlari yerine getiren bir platformun veritabani sistemini tasarlamaniz ve bu veritabani uzerinde gerekli islemleri gercekleyen bir oyun gelistirmeniz amaclanmaktadir. 
 Oyun Tanimi ve Kurallari: Meta-land sisteminde oyuncu ve yonetici olmak uzere 2 farkli rolde kullanici bulunacaktir. Yonetici sistem icerisindeki tum oyuncularin verilerini gorebilme, kontrol edebilme ve oyun kurallarinin sayisal parametrelerini belirleme yetkisine sahip kullanici roludur. Oyuncu ise oyunu oynamak icin sisteme giris yapan kullanicilarin sahip oldugu roldur. 
 Oyun asagidaki kurallara gore isletilecektir: 
